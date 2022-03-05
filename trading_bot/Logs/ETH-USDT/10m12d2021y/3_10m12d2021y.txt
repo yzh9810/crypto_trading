@@ -1,0 +1,540 @@
+3_10m12d2021y,1634007636
+Price List Checked, Latest: 1634007600
+eth_basis - xrp_basis - eth_xrp_ema: 0.002246755970801018
+eth_basis - trx_basis - eth_trx_ema: 0.0010711795819916218
+trx_basis - xrp_basis - trx_xrp_ema: 0.001222470897254786
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634007696
+Price List Checked, Latest: 1634007660
+eth_basis - xrp_basis - eth_xrp_ema: 0.0030967924065200556
+eth_basis - trx_basis - eth_trx_ema: 0.001085815626407971
+trx_basis - xrp_basis - trx_xrp_ema: 0.0020580216444707772
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634007757
+Price List Checked, Latest: 1634007720
+eth_basis - xrp_basis - eth_xrp_ema: 0.0032159553254985747
+eth_basis - trx_basis - eth_trx_ema: 0.0013671547078139556
+trx_basis - xrp_basis - trx_xrp_ema: 0.0018959360541766692
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634007817
+Price List Checked, Latest: 1634007780
+eth_basis - xrp_basis - eth_xrp_ema: 0.0026271575463195527
+eth_basis - trx_basis - eth_trx_ema: 0.0006089149966434539
+trx_basis - xrp_basis - trx_xrp_ema: 0.0020655240794297414
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634007878
+Price List Checked, Latest: 1634007840
+eth_basis - xrp_basis - eth_xrp_ema: 0.0033865957841019605
+eth_basis - trx_basis - eth_trx_ema: 0.0010771823986860905
+trx_basis - xrp_basis - trx_xrp_ema: 0.002356794286918547
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634007938
+Price List Checked, Latest: 1634007900
+eth_basis - xrp_basis - eth_xrp_ema: 0.00265621886131164
+eth_basis - trx_basis - eth_trx_ema: 0.00068572544447572
+trx_basis - xrp_basis - trx_xrp_ema: 0.00201794012462112
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634007999
+Price List Checked, Latest: 1634007960
+eth_basis - xrp_basis - eth_xrp_ema: 0.003001981216546711
+eth_basis - trx_basis - eth_trx_ema: 0.0008422616333100697
+trx_basis - xrp_basis - trx_xrp_ema: 0.0022072977973962363
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008059
+Price List Checked, Latest: 1634008020
+eth_basis - xrp_basis - eth_xrp_ema: 0.002448678969064224
+eth_basis - trx_basis - eth_trx_ema: 0.0006949518865066468
+trx_basis - xrp_basis - trx_xrp_ema: 0.0018013447557492686
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008120
+Price List Checked, Latest: 1634008080
+eth_basis - xrp_basis - eth_xrp_ema: 0.003108814208672912
+eth_basis - trx_basis - eth_trx_ema: 0.0009906786564837927
+trx_basis - xrp_basis - trx_xrp_ema: 0.002165888556758618
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008180
+Price List Checked, Latest: 1634008140
+eth_basis - xrp_basis - eth_xrp_ema: 0.0024904383933633976
+eth_basis - trx_basis - eth_trx_ema: 0.0008858787193851587
+trx_basis - xrp_basis - trx_xrp_ema: 0.0016524705283364853
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008240
+Price List Checked, Latest: 1634008200
+eth_basis - xrp_basis - eth_xrp_ema: 0.003247758993616027
+eth_basis - trx_basis - eth_trx_ema: -0.0001996136115766569
+trx_basis - xrp_basis - trx_xrp_ema: 0.0034955681980864805
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008301
+Price List Checked, Latest: 1634008260
+eth_basis - xrp_basis - eth_xrp_ema: 0.0024108366119997117
+eth_basis - trx_basis - eth_trx_ema: 0.0007240574480032805
+trx_basis - xrp_basis - trx_xrp_ema: 0.0017350064207300644
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008341
+Price List Checked, Latest: 1634008320
+eth_basis - xrp_basis - eth_xrp_ema: 0.003177728081365844
+eth_basis - trx_basis - eth_trx_ema: 0.0006391013805705469
+trx_basis - xrp_basis - trx_xrp_ema: 0.002587036258884807
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008402
+Price List Checked, Latest: 1634008380
+eth_basis - xrp_basis - eth_xrp_ema: 0.002725281503878879
+eth_basis - trx_basis - eth_trx_ema: 0.0007343351309522291
+trx_basis - xrp_basis - trx_xrp_ema: 0.002039424356145965
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008462
+Price List Checked, Latest: 1634008440
+eth_basis - xrp_basis - eth_xrp_ema: 0.003589111241057279
+eth_basis - trx_basis - eth_trx_ema: 0.00031156141724132495
+trx_basis - xrp_basis - trx_xrp_ema: 0.0033262659098823467
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008523
+Price List Checked, Latest: 1634008500
+eth_basis - xrp_basis - eth_xrp_ema: 0.0030908376203494054
+eth_basis - trx_basis - eth_trx_ema: 0.00039712842418163086
+trx_basis - xrp_basis - trx_xrp_ema: 0.0027424662528835516
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008583
+Price List Checked, Latest: 1634008560
+eth_basis - xrp_basis - eth_xrp_ema: 0.002542121887161986
+eth_basis - trx_basis - eth_trx_ema: 0.00040618704009288097
+trx_basis - xrp_basis - trx_xrp_ema: 0.002184791644902432
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008644
+Price List Checked, Latest: 1634008620
+eth_basis - xrp_basis - eth_xrp_ema: 0.0026498261547294767
+eth_basis - trx_basis - eth_trx_ema: 0.00029008275943161015
+trx_basis - xrp_basis - trx_xrp_ema: 0.0024087841165086592
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008704
+Price List Checked, Latest: 1634008680
+eth_basis - xrp_basis - eth_xrp_ema: 0.0027513320860990563
+eth_basis - trx_basis - eth_trx_ema: 0.0010593696502762227
+trx_basis - xrp_basis - trx_xrp_ema: 0.0017411107135916898
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008764
+Price List Checked, Latest: 1634008740
+eth_basis - xrp_basis - eth_xrp_ema: 0.0029208246168307634
+eth_basis - trx_basis - eth_trx_ema: 0.0010521155636629195
+trx_basis - xrp_basis - trx_xrp_ema: 0.0019180348067690863
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008825
+Price List Checked, Latest: 1634008800
+eth_basis - xrp_basis - eth_xrp_ema: 0.002594135318684591
+eth_basis - trx_basis - eth_trx_ema: -7.337048565259942e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0027170778050548804
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008885
+Price List Checked, Latest: 1634008860
+eth_basis - xrp_basis - eth_xrp_ema: 0.0027598445099446013
+eth_basis - trx_basis - eth_trx_ema: -0.0004848643573737831
+trx_basis - xrp_basis - trx_xrp_ema: 0.00329449258381162
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634008946
+Price List Checked, Latest: 1634008920
+eth_basis - xrp_basis - eth_xrp_ema: 0.0029907450849245114
+eth_basis - trx_basis - eth_trx_ema: 0.0002350325259530186
+trx_basis - xrp_basis - trx_xrp_ema: 0.0028056042011007434
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009006
+Price List Checked, Latest: 1634008980
+eth_basis - xrp_basis - eth_xrp_ema: 0.002637241531665513
+eth_basis - trx_basis - eth_trx_ema: 0.00020904180344152694
+trx_basis - xrp_basis - trx_xrp_ema: 0.002478178699976673
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009067
+Price List Checked, Latest: 1634009040
+eth_basis - xrp_basis - eth_xrp_ema: 0.002610960749743283
+eth_basis - trx_basis - eth_trx_ema: 0.0001384014796875794
+trx_basis - xrp_basis - trx_xrp_ema: 0.002522714636002364
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009127
+Price List Checked, Latest: 1634009100
+eth_basis - xrp_basis - eth_xrp_ema: 0.0038215041927725296
+eth_basis - trx_basis - eth_trx_ema: 0.0008463308407078117
+trx_basis - xrp_basis - trx_xrp_ema: 0.0030255137210450592
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009188
+Price List Checked, Latest: 1634009160
+eth_basis - xrp_basis - eth_xrp_ema: 0.0026435781963581387
+eth_basis - trx_basis - eth_trx_ema: 0.000538195750792482
+trx_basis - xrp_basis - trx_xrp_ema: 0.0021558697203044024
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009248
+Price List Checked, Latest: 1634009220
+eth_basis - xrp_basis - eth_xrp_ema: 0.0026926458855003124
+eth_basis - trx_basis - eth_trx_ema: 0.00012693984444262126
+trx_basis - xrp_basis - trx_xrp_ema: 0.002616350063096278
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009309
+Price List Checked, Latest: 1634009280
+eth_basis - xrp_basis - eth_xrp_ema: 0.0025954854951579474
+eth_basis - trx_basis - eth_trx_ema: 0.000354091653852754
+trx_basis - xrp_basis - trx_xrp_ema: 0.002292146796500562
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009369
+Price List Checked, Latest: 1634009340
+eth_basis - xrp_basis - eth_xrp_ema: 0.0025761671252918054
+eth_basis - trx_basis - eth_trx_ema: 5.6406760138561635e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.002570643034488807
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009430
+Price List Checked, Latest: 1634009400
+eth_basis - xrp_basis - eth_xrp_ema: 0.0023126618579020364
+eth_basis - trx_basis - eth_trx_ema: 9.465422448850722e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0022689838361552965
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009490
+Price List Checked, Latest: 1634009460
+eth_basis - xrp_basis - eth_xrp_ema: 0.0023374424618783276
+eth_basis - trx_basis - eth_trx_ema: -9.63918215040379e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0024849935116782844
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009550
+Price List Checked, Latest: 1634009520
+eth_basis - xrp_basis - eth_xrp_ema: 0.0023632818746369784
+eth_basis - trx_basis - eth_trx_ema: 0.0002671257357079824
+trx_basis - xrp_basis - trx_xrp_ema: 0.0021474343635804003
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009611
+Price List Checked, Latest: 1634009580
+eth_basis - xrp_basis - eth_xrp_ema: 0.002545748079974995
+eth_basis - trx_basis - eth_trx_ema: 0.00022335582347714905
+trx_basis - xrp_basis - trx_xrp_ema: 0.002373825747257195
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009671
+Price List Checked, Latest: 1634009640
+eth_basis - xrp_basis - eth_xrp_ema: 0.0026783475079311045
+eth_basis - trx_basis - eth_trx_ema: -6.57445086612151e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0027956783996357596
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009732
+Price List Checked, Latest: 1634009700
+eth_basis - xrp_basis - eth_xrp_ema: 0.0024713676134715448
+eth_basis - trx_basis - eth_trx_ema: 0.0004971446838408795
+trx_basis - xrp_basis - trx_xrp_ema: 0.0020258572003921203
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009792
+Price List Checked, Latest: 1634009760
+eth_basis - xrp_basis - eth_xrp_ema: 0.0025345020220257277
+eth_basis - trx_basis - eth_trx_ema: 0.00015913727203881178
+trx_basis - xrp_basis - trx_xrp_ema: 0.002427204032023931
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009853
+Price List Checked, Latest: 1634009820
+eth_basis - xrp_basis - eth_xrp_ema: 0.0028202177087407153
+eth_basis - trx_basis - eth_trx_ema: 0.00014324747491242622
+trx_basis - xrp_basis - trx_xrp_ema: 0.00272902580120591
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009913
+Price List Checked, Latest: 1634009880
+eth_basis - xrp_basis - eth_xrp_ema: 0.0024957723047795786
+eth_basis - trx_basis - eth_trx_ema: 0.0005640961680431576
+trx_basis - xrp_basis - trx_xrp_ema: 0.0019838101001342645
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634009974
+Price List Checked, Latest: 1634009940
+eth_basis - xrp_basis - eth_xrp_ema: 0.0023905276954082023
+eth_basis - trx_basis - eth_trx_ema: 3.69862236054546e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.002405810840530709
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010034
+Price List Checked, Latest: 1634010000
+eth_basis - xrp_basis - eth_xrp_ema: 0.0027192974818965668
+eth_basis - trx_basis - eth_trx_ema: 0.0002586608966246625
+trx_basis - xrp_basis - trx_xrp_ema: 0.0025130811619865634
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010095
+Price List Checked, Latest: 1634010060
+eth_basis - xrp_basis - eth_xrp_ema: 0.0026341471559538166
+eth_basis - trx_basis - eth_trx_ema: 0.0004921869165602083
+trx_basis - xrp_basis - trx_xrp_ema: 0.0021944958264887675
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010155
+Price List Checked, Latest: 1634010120
+eth_basis - xrp_basis - eth_xrp_ema: 0.0024929703507880893
+eth_basis - trx_basis - eth_trx_ema: 6.801664744172584e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0024776628001880047
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010216
+Price List Checked, Latest: 1634010180
+eth_basis - xrp_basis - eth_xrp_ema: 0.002444160356069199
+eth_basis - trx_basis - eth_trx_ema: -3.5981295143028974e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0025330193093131455
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010276
+Price List Checked, Latest: 1634010240
+eth_basis - xrp_basis - eth_xrp_ema: 0.0028601221661696393
+eth_basis - trx_basis - eth_trx_ema: -0.00011373471517353226
+trx_basis - xrp_basis - trx_xrp_ema: 0.003026933160593444
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010336
+Price List Checked, Latest: 1634010300
+eth_basis - xrp_basis - eth_xrp_ema: 0.0024131758248466025
+eth_basis - trx_basis - eth_trx_ema: 0.00031922173993225583
+trx_basis - xrp_basis - trx_xrp_ema: 0.002147087974149066
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010397
+Price List Checked, Latest: 1634010360
+eth_basis - xrp_basis - eth_xrp_ema: 0.0026365349421867863
+eth_basis - trx_basis - eth_trx_ema: -7.438484486253262e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0027642176750000934
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010457
+Price List Checked, Latest: 1634010420
+eth_basis - xrp_basis - eth_xrp_ema: 0.0019008663797900538
+eth_basis - trx_basis - eth_trx_ema: -9.410831068644085e-06
+trx_basis - xrp_basis - trx_xrp_ema: 0.0019636947189000976
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010518
+Price List Checked, Latest: 1634010480
+eth_basis - xrp_basis - eth_xrp_ema: 0.002530041817393331
+eth_basis - trx_basis - eth_trx_ema: 8.3629339766262e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0025000315546562027
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010578
+Price List Checked, Latest: 1634010540
+eth_basis - xrp_basis - eth_xrp_ema: 0.002846908780090204
+eth_basis - trx_basis - eth_trx_ema: 1.168839321960373e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.00288906116562309
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010639
+Price List Checked, Latest: 1634010600
+eth_basis - xrp_basis - eth_xrp_ema: 0.003152109048660409
+eth_basis - trx_basis - eth_trx_ema: 0.0004988267308409025
+trx_basis - xrp_basis - trx_xrp_ema: 0.002707300237419474
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010699
+Price List Checked, Latest: 1634010660
+eth_basis - xrp_basis - eth_xrp_ema: 0.0025148917694894747
+eth_basis - trx_basis - eth_trx_ema: 9.345201588010187e-05
+trx_basis - xrp_basis - trx_xrp_ema: 0.0024755753604539434
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010760
+Price List Checked, Latest: 1634010720
+eth_basis - xrp_basis - eth_xrp_ema: 0.0027828342198845347
+eth_basis - trx_basis - eth_trx_ema: 0.00030828556919475746
+trx_basis - xrp_basis - trx_xrp_ema: 0.00252882955392744
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010820
+Price List Checked, Latest: 1634010780
+eth_basis - xrp_basis - eth_xrp_ema: 0.002619797370112085
+eth_basis - trx_basis - eth_trx_ema: 0.0003171798116442994
+trx_basis - xrp_basis - trx_xrp_ema: 0.0023570491187280586
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010881
+Price List Checked, Latest: 1634010840
+eth_basis - xrp_basis - eth_xrp_ema: 0.002321592142179238
+eth_basis - trx_basis - eth_trx_ema: 5.581316636351849e-06
+trx_basis - xrp_basis - trx_xrp_ema: 0.0023705888255854297
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010941
+Price List Checked, Latest: 1634010900
+eth_basis - xrp_basis - eth_xrp_ema: 0.0024202245500524987
+eth_basis - trx_basis - eth_trx_ema: 0.0002618242174938709
+trx_basis - xrp_basis - trx_xrp_ema: 0.0022131383840379836
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634010981
+Price List Checked, Latest: 1634010960
+eth_basis - xrp_basis - eth_xrp_ema: 0.0023731162222236516
+eth_basis - trx_basis - eth_trx_ema: -0.00011743046769833142
+trx_basis - xrp_basis - trx_xrp_ema: 0.002545481973608831
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634011042
+Price List Checked, Latest: 1634011020
+eth_basis - xrp_basis - eth_xrp_ema: 0.00264101333011042
+eth_basis - trx_basis - eth_trx_ema: 0.0004634724833224961
+trx_basis - xrp_basis - trx_xrp_ema: 0.0022326359034299456
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634011102
+Price List Checked, Latest: 1634011080
+eth_basis - xrp_basis - eth_xrp_ema: 0.0023456816146989823
+eth_basis - trx_basis - eth_trx_ema: -0.00021440496750096266
+trx_basis - xrp_basis - trx_xrp_ema: 0.0026153784491913905
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+
+3_10m12d2021y,1634011163
+Price List Checked, Latest: 1634011140
+eth_basis - xrp_basis - eth_xrp_ema: 0.0026160749346329807
+eth_basis - trx_basis - eth_trx_ema: 0.00020643080551490875
+trx_basis - xrp_basis - trx_xrp_ema: 0.0024650448689266854
+current_status: ignore
+current_leverage: 0
+current_coins_pair: 
+

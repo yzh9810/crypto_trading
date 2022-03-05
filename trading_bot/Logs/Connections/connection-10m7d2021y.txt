@@ -1,0 +1,375 @@
+[TRX-USDT-SWAP,1633629050] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633629053] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633629095] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633629099] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633629278] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633629281] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633629513] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633629516] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633629991] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633629994] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633630110] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633630114] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633631929] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633631932] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633631975] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633631978] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633632093] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633632096] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633632232] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633632235] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633632273] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633632276] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633632394] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633632397] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633632593] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633632596] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633632633] Hibernation for next reconnection begins;
+[XRP-USDT-220325,1633632635] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633632636] Reconnection Succeeds
+
+[XRP-USDT-220325,1633632639] Reconnection Succeeds
+
+[ETH-USDT-SWAP,1633632712] Hibernation for next reconnection begins;
+[ETH-USDT-SWAP,1633632715] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633632873] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633632876] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633632878] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633632882] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633633053] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633633056] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633633173] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633633176] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633633555] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633633558] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633633560] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633633563] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634071] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634074] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634148] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634151] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634193] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634196] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634255] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634259] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634313] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634316] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634502] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634505] Reconnection Succeeds
+
+[TRX-USDT-220325,1633634568] Hibernation for next reconnection begins;
+[TRX-USDT-220325,1633634572] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634682] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634685] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633634740] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633634743] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634818] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634821] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633634994] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633634998] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633635153] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633635156] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633635393] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633635396] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633635534] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633635537] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633635633] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633635636] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633635776] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633635779] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633635889] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633635892] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633635940] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633635944] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633636003] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633636006] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633636170] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633636173] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633636293] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633636296] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633636551] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633636555] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633636592] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633636595] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633636732] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633636735] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633637313] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633637316] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633637677] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633637680] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633637731] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633637734] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633637854] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633637857] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633638219] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633638222] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633638286] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633638289] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633638510] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633638513] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633638600] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633638603] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633639136] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633639139] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633639176] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633639179] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633639415] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633639419] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633639433] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633639437] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633639530] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633639533] Reconnection Succeeds
+
+[TRX-USDT-220325,1633639651] Hibernation for next reconnection begins;
+[TRX-USDT-220325,1633639655] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633639666] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633639669] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633639739] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633639743] Reconnection Succeeds
+
+[ETH-USDT-SWAP,1633639783] Hibernation for next reconnection begins;
+[ETH-USDT-SWAP,1633639786] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633639836] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633639839] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633639893] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633639896] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633639918] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633639922] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633640073] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633640076] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633640269] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633640272] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633640313] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633640316] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633640866] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633640870] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633640913] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633640916] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633640971] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633640974] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633641211] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633641214] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633641692] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633641695] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633641883] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633641887] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633641961] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633641964] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642053] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642056] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642126] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642129] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633642184] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633642187] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642242] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642245] Reconnection Succeeds
+
+[ETH-USDT-220325,1633642259] Hibernation for next reconnection begins;
+[ETH-USDT-220325,1633642262] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642293] Hibernation for next reconnection begins;
+[ETH-USDT-220325,1633642293] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642296] Reconnection Succeeds
+
+[ETH-USDT-220325,1633642297] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633642303] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633642306] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633642353] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633642356] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633642412] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633642415] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642420] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642423] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642593] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642596] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633642601] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633642604] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642655] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642658] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642713] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642717] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633642788] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633642791] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633643257] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633643261] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633643516] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633643519] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633643629] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633643632] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633643735] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633643739] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633643802] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633643805] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633643927] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633643930] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633643976] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633643979] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633644179] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633644183] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633644415] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633644418] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633644661] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633644664] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633645549] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633645553] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633645680] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633645683] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633645797] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633645800] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633646021] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633646024] Reconnection Succeeds
+
+[XRP-USDT-220325,1633646263] Hibernation for next reconnection begins;
+[XRP-USDT-220325,1633646266] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633646610] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633646613] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633646684] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633646687] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633646995] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633646999] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633647270] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633647273] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633647456] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633647459] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633647873] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633647876] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633648112] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633648115] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633648173] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633648176] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633648412] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633648415] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633648919] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633648922] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633648978] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633648981] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633649328] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633649331] Reconnection Succeeds
+
+[XRP-USDT-SWAP,1633649336] Hibernation for next reconnection begins;
+[XRP-USDT-SWAP,1633649340] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633649873] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633649876] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633650573] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633650576] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633651016] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633651019] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633651113] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633651116] Reconnection Succeeds
+
+[TRX-USDT-SWAP,1633651190] Hibernation for next reconnection begins;
+[TRX-USDT-SWAP,1633651193] Reconnection Succeeds
+
